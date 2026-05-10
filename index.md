@@ -16,28 +16,23 @@ Me interesa trabajar en entornos internacionales donde pueda aportar valor media
 
 ## 📊 Proyectos
 
-### 🔹 Pipeline de Análisis Urbano – Movilidad vs Economía
+### 🔹 Pipeline de Análisis Urbano – Movilidad vs Economía  
 Problema: Impacto de la congestión vehicular en el PIB  
 Qué hice: ETL con Python y análisis de datos  
-Resultado: Identificación de patrones clave
+Resultado: Identificación de patrones clave  
 
-🔗 [Ver proyecto en GitHub](https://github.com/rafael-arnedo/urban-data-analysis)
----
-
-### 🔹 Optimización de Portafolio de Mercados
-Problema: Evaluar rentabilidad de mercados  
-Qué hice: Análisis SQL con KPIs  
-Resultado: Recomendaciones de inversión  
+🔗 <https://github.com/rafael-arnedo/urban-data-analysis>
 
 ---
 
-### 🔹 Análisis de Embudo de Conversión
-Problema: Pérdida de usuarios en checkout  
-Qué hice: Análisis SQL de eventos  
-Resultado: Identificación de caída del 65%  
+### 🔹 Análisis de Retención de Usuarios (Cohort Analysis)  
+Problema: Evaluar la retención de usuarios en una plataforma de e-commerce  
+Qué hice: Análisis SQL utilizando CTEs, cohortes y cálculo de métricas de retención  
+Resultado: Identificación de tasas de retención en distintos periodos (D7, D14, D21, D28)  
+
+🔗 <https://github.com/rafael-arnedo/market-analysis-sql>
 
 ---
-
 
 ## 📬 Contacto
 
