@@ -34,6 +34,13 @@ Resultado: Identificación de tasas de retención en distintos periodos (D7, D14
 
 ---
 
+## 🔹 Análisis de Rentabilidad y ROI en Marketing  
+Problema: Evaluar la eficiencia de las ventas y la inversión en marketing en distintos países  
+Qué hice: Análisis SQL integrando múltiples tablas y cálculo de KPIs financieros como ingresos, costos y ROI  
+Resultado: Identificación de oportunidades de optimización en la inversión publicitaria y desempeño por territorio  
+
+🔗 <https://github.com/rafael-arnedo/marketing-roi-analysis>
+
 ## 📬 Contacto
 
 📧 [rafa.arnedo15@gmail.com](mailto:rafa.arnedo15@gmail.com)  
