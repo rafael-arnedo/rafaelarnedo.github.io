@@ -20,7 +20,6 @@ Me interesa trabajar en entornos internacionales donde pueda aportar valor media
 Problema: Impacto de la congestión vehicular en el PIB  
 Qué hice: ETL con Python y análisis de datos  
 Resultado: Identificación de patrones clave
-
 https://github.com/rafael-arnedo/urban-data-analysis/tree/main
 ---
 
@@ -40,4 +39,4 @@ Resultado: Identificación de caída del 65%
 
 ## 📬 Contacto
 Correo: rafa.arnedo15@gmail.com  
-LinkedIn: https://www.linkedin.com/in/rafael-arnedo/
+LinkedIn: www.linkedin.com/in/rafael-arnedo
