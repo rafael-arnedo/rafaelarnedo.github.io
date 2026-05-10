@@ -19,8 +19,9 @@ Me interesa trabajar en entornos internacionales donde pueda aportar valor media
 ### 🔹 Pipeline de Análisis Urbano – Movilidad vs Economía
 Problema: Impacto de la congestión vehicular en el PIB  
 Qué hice: ETL con Python y análisis de datos  
-Resultado: Identificación de patrones clave  
+Resultado: Identificación de patrones clave
 
+https://github.com/rafael-arnedo/urban-data-analysis/tree/main
 ---
 
 ### 🔹 Optimización de Portafolio de Mercados
