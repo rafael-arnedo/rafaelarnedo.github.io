@@ -65,7 +65,7 @@ Problema: Evaluar la eficiencia de las ventas y la inversión en marketing en di
 Qué hice: Análisis SQL integrando múltiples tablas y cálculo de KPIs financieros como ingresos, costos y ROI  
 Resultado: Identificación de oportunidades de optimización en la inversión publicitaria y desempeño por territorio  
 
-🔗 <https://github.com/rafael-arnedo/marketing-roi-analysis>
+🔗 <https://github.com/rafael-arnedo/adventure-works-financial-analysis/>
 
 ## 📬 Contacto
 
