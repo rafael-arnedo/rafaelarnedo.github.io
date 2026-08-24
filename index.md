@@ -1,17 +1,43 @@
-# Rafael Arnedo  
-## Data Analyst
+# Rafael Arnedo
+
+## Data Analyst | Supply Chain & Logistics Analytics
+
+Transforming operational and business data into actionable insights through SQL, Python, Power BI and Excel.
 
 
 ---
 
 ## 👋 Sobre mí
 
-Soy Data Analyst Junior con experiencia en análisis de datos en entornos logísticos, enfocado en transformar información en insights accionables para la toma de decisiones.
+Data Analyst con más de 5 años de experiencia en logística, distribución y operaciones de Supply Chain.
+Especializado en transformar datos operativos y de negocio en insights accionables para apoyar la toma de decisiones, el seguimiento de indicadores clave (KPIs) y la mejora de procesos.
+Cuento con experiencia utilizando SQL, Python, Power BI y Excel para análisis de datos, automatización de reportes, visualización de información y desarrollo de dashboards orientados al negocio.
+Actualmente busco oportunidades donde pueda generar impacto mediante analítica de datos, inteligencia de negocio y optimización de procesos.
 
-Cuento con habilidades en Excel avanzado, SQL, Python y Power BI, con experiencia en limpieza, transformación y visualización de datos. Actualmente me encuentro en formación continua mediante un bootcamp en análisis de datos.
+---
 
-Me interesa trabajar en entornos internacionales donde pueda aportar valor mediante el análisis de datos y seguir creciendo profesionalmente.
+## 🛠️ Habilidades
 
+### Analytics & Business Intelligence
+- Data Analysis
+- KPI Reporting
+- Dashboard Development
+- Data Visualization
+- Business Analytics
+
+### Supply Chain & Operations
+- Supply Chain Analytics
+- Logistics Analytics
+- Distribution Operations
+- Process Improvement
+
+### Tools
+- SQL
+- Python
+- Power BI
+- Excel
+- PostgreSQL
+- Pandas
 ---
 
 ## 📊 Proyectos
